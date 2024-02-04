@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @decliffy
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and software engineering
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on open source data science projects
 - 📫 How to reach me decliffy@gmail.com
